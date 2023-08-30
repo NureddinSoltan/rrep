@@ -1,2 +1,3 @@
 First line in file
 Second line int file1.txt
+Third line in file1.txt
